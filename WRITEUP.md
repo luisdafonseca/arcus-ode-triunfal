@@ -1,6 +1,6 @@
 # Arcus · Ode Triunfal — Forensic Investigation Writeup
 
-**Author:** Adams  
+**Author:** Luis Adao da Fonseca  
 **Date:** June 2026  
 **Challenge:** Augusta Labs · Arcus Trial I · *I · Ode Triunfal*  
 **Artifact:** `ode.pt` — a 50M-parameter byte-level GPT (`luso_lit_lm_player_v2`)  
