@@ -289,7 +289,7 @@ The exact accepted string on the hardened build remains open. This teardown — 
 | `tokens_especiais.py` | Special token ID injection, SCA-style attack |
 
 **Hardware:** NVIDIA RTX 4060 (CUDA), Python 3.12, PyTorch cu121  
-**Total GPU time:** ~8 hours across all experiments
+**Total GPU time:** ~3 hours across all experiments
 
 ---
 
